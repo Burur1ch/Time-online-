@@ -24,3 +24,6 @@ else document.getElementById("doc_time").innerHTML = date_time;
 }
 
 alert(clock())
+
+
+//this will be deleted
